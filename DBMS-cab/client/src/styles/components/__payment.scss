@@ -1,0 +1,34 @@
+
+.payment_form{
+    text-align: start;
+    font-weight: 500;
+}
+
+.paymentName{
+    
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+.paymentCN{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+
+.paymentMY{
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}
+.paymentCVV{
+    font-weight: bolder;
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+}

@@ -1,0 +1,58 @@
+.user__form{
+
+    text-align: start;
+    font-weight: 500;
+}
+.user__Fname{
+
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+    
+}
+.user__Lname{
+
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+    
+}
+
+.user__address{
+
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+    widows: 20%;
+    
+}
+
+.user__mail{
+
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+    
+}
+
+.user__num{
+
+    background-color: rgb(223, 215, 215);
+    color: rgb(6, 7, 7);
+    text-align: center;
+    padding: $s-size;
+    
+}
+
+.user__button{
+
+    color: rgb(194, 181, 181);
+    background-color: rgb(56, 45, 45);
+    width: 15%;
+    height: 55px;
+    margin-bottom: $off-msize;
+}
